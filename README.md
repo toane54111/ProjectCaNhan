@@ -48,10 +48,8 @@ pip --version
 ### Bước 3: Tải code từ GitHub
 ```bash
 # Clone repository
-git clone [link-github-của-bạn]
+git clone https://github.com/toane54111/ProjectCaNhan/tree/master
 
-# Di chuyển vào thư mục
-cd 8-quan-hau-ai
 ```
 
 ---
@@ -60,7 +58,7 @@ cd 8-quan-hau-ai
 
 ### Chạy trực tiếp file Python (KHUYẾN NGHỊ)
 ```bash
-python 8_quan_hau.py
+python 8Hau.py
 ```
 
 ### Tính năng giao diện:
@@ -343,7 +341,7 @@ Nếu gặp vấn đề khi chạy code, vui lòng liên hệ:
 
 📧 **Email:** tranquangtoandalat@gmail.com  
 📱 **SĐT:** 0389968322  
-🔗 **GitHub:** [link github của bạn]
+🔗 **GitHub:** https://github.com/toane54111
 
 ---
 
