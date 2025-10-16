@@ -332,7 +332,8 @@ python 8Hau.py
 - Nhấn "Hill Climbing"
 - Thuật toán di chuyển quân hậu
 ```
-
+### Video DEMO chương trình 
+https://drive.google.com/file/d/1H0kaSXs4lXBTa13AzG1UqIv678CV0pal/view?usp=sharing
 ---
 
 ## 📞 LIÊN HỆ HỖ TRỢ
