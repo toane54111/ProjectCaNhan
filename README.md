@@ -356,6 +356,5 @@ Bài tập cá nhân môn Trí tuệ nhân tạo - Chỉ sử dụng cho mục �
 
 Cảm ơn **cô Phan Thị Huyền Trang** đã hướng dẫn và tạo điều kiện để hoàn thành bài tập này!
 
-Cảm ơn các bạn sinh viên đã tham khảo và đóng góp ý kiến! 💪
 
 ---
